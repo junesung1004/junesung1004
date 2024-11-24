@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junesung1004&label=Profile%20views&color=0e75b6&style=flat" alt="junesung1004" /> </p>
 
 - 👨‍💻 저의 모든 프로젝트는 [https://pjs-portfolio-profilepage.netlify.app](https://pjs-portfolio-profilepage.netlify.app)
-
-- 💬 Ask me about **React, Typescript**
 <br />
 
 <h3 align="left">SNS</h3>
