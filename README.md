@@ -6,7 +6,7 @@
 
 ## Portfolio, Blog
 
-[이력서](https://enchanting-fifth-6b4.notion.site/15a502656bc380029f0ef3be7b1e839d?pvs=74)
+[이력서](https://enchanting-fifth-6b4.notion.site/160502656bc3805283bbd224274b95cb)
 
 [포트폴리오](https://pjs-portfolio-profilepage.netlify.app)
 
