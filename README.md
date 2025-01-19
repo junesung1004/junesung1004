@@ -10,7 +10,7 @@
 
 [포트폴리오](https://pjs-portfolio-profilepage.netlify.app)
 
-[공부한 것을 정리하는 블로그](https://enchanting-fifth-6b4.notion.site/3b23288e419a430993d5e45b8f2f5e1d)
+[공부한 것을 정리하는 블로그](https://junesung1004.github.io/blog/)
 
 ## Tech Stack
 
