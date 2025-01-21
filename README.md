@@ -10,7 +10,7 @@
 
 [포트폴리오](https://pjs-portfolio-profilepage.netlify.app)
 
-[공부한 것을 정리하는 블로그](https://junesung1004.github.io/blog/)
+[공부한 것을 정리하는 블로그](https://junecoding1004.tistory.com/)
 
 ## Tech Stack
 
