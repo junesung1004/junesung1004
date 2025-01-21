@@ -6,9 +6,9 @@
 
 ## Portfolio, Blog
 
-[이력서](https://enchanting-fifth-6b4.notion.site/160502656bc3805283bbd224274b95cb)
+<!-- [이력서](https://enchanting-fifth-6b4.notion.site/160502656bc3805283bbd224274b95cb) -->
 
-[포트폴리오](https://pjs-portfolio-profilepage.netlify.app)
+<!-- [포트폴리오](https://pjs-portfolio-profilepage.netlify.app)-->
 
 [공부한 것을 정리하는 블로그](https://junecoding1004.tistory.com/)
 
@@ -91,8 +91,8 @@
 
 ## Projects
 
-- [포트폴리오 (Portfolio)](https://pjs-portfolio-profilepage.netlify.app) - `TypeScript`, `React`, `Netlify`, `Tailwind CSS`
-  - 개인 포트폴리오 웹 페이지
+<!-- - [포트폴리오 (Portfolio)](https://pjs-portfolio-profilepage.netlify.app) - `TypeScript`, `React`, `Netlify`, `Tailwind CSS`
+  - 개인 포트폴리오 웹 페이지 -->
 - [투데잇(Todat + Eat)](https://todayeatfoods.netlify.app/) - `Next.js`, `Netlify`, `styled-components`, `SCSS`
   - 카카오 지도 api를 활용한 맛집 추천 서비스 웹웹
 - [슈퍼닭](https://superdak.netlify.app/) - `React`, `Firebase-Database`, `Firebase-authentication`, `Firebase-Storage`, `Netlify`
