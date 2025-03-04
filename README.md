@@ -93,6 +93,8 @@
 
 <!-- - [포트폴리오 (Portfolio)](https://pjs-portfolio-profilepage.netlify.app) - `TypeScript`, `React`, `Netlify`, `Tailwind CSS`
   - 개인 포트폴리오 웹 페이지 -->
+- [진달램(소모임)](https://jindallaem.vercel.app/) - `Next.js`, `vercel`, `tailwind-css`, `React-Query`, `Zustand`, `Github-Actions`
+  - 카카오 지도 api를 활용한 맛집 추천 서비스 웹웹
 - [투데잇(Todat + Eat)](https://todayeatfoods.netlify.app/) - `Next.js`, `Netlify`, `styled-components`, `SCSS`
   - 카카오 지도 api를 활용한 맛집 추천 서비스 웹웹
 - [슈퍼닭](https://superdak.netlify.app/) - `React`, `Firebase-Database`, `Firebase-authentication`, `Firebase-Storage`, `Netlify`
