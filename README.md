@@ -93,7 +93,7 @@
 
 <!-- - [포트폴리오 (Portfolio)](https://pjs-portfolio-profilepage.netlify.app) - `TypeScript`, `React`, `Netlify`, `Tailwind CSS`
   - 개인 포트폴리오 웹 페이지 -->
-- [진달램(소모임)](https://jindallaem.vercel.app/) - `Next.js`, `vercel`, `tailwind-css`, `React-Query`, `Zustand`, `Github-Actions`
+- [마음달램(소모임)](https://jindallaem.vercel.app/) - `Next.js`, `vercel`, `tailwind-css`, `React-Query`, `Zustand`, `Github-Actions`
   - 오프라인 모임을 주최할 수 있는 반응형 웹앱 기반 플랫폼
 - [투데잇(Todat + Eat)](https://todayeatfoods.netlify.app/) - `Next.js`, `Netlify`, `styled-components`, `SCSS`
   - 카카오 지도 api를 활용한 맛집 추천 서비스 웹웹
